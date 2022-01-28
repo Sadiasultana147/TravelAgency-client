@@ -5,8 +5,8 @@ import './Blog.css'
 
 const Blogs = () => {
     const [blogs, setBlogs] = useState([]);
-    const [currentPage, setCurrentPage] = useState(10);
-    const [pageSize, setPageSize] = useState(1);
+    const [currentPage, setCurrentPage] = useState(1);
+    const [pageSize, setPageSize] = useState(10);
     const lastPost = currentPage * pageSize;
     const firstPost = lastPost - pageSize;
     const currentBlogs = blogs.slice(firstPost, lastPost);
