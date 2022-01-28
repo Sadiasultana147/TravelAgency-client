@@ -48,7 +48,7 @@ const Footer = () => {
                             <div class="col-xl-4 col-lg-4 mb-50">
                                 <div class="footer-widget">
                                     <div class="footer-logo">
-                                        <a href="index.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGmEEKuokKXOfC2f5JPBWYaaONdziR2bymie61y5kUZpfshqj80V1u9JLAQIdbdMgTZRw&usqp=CAU" class="img-fluid w-50 h-50" alt="logo" /></a>
+                                        <a href="index.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUxrP5mDr-X-FVguP-wwtKmTkl8EWYhyrfqw&usqp=CAU" class="img-fluid " alt="logo" /></a>
                                     </div>
                                     <div class="footer-text">
                                         <p>There are a number of choices, decisions and details involved in each and every trip you make. If you miss one detail it can cause your dream trip to turn into a disaster. As travel professionals, we have the expertise to take care of every aspect of your travel need.

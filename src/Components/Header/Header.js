@@ -28,8 +28,8 @@ const Header = () => {
             <nav style={{ backgroundColor: "#8B85B3", opacity: 0.7 }} className="navbar navbar-expand-lg navbar-light ">
                 <div className="container-fluid">
                     <NavLink to="/" className="navbar-brand">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGmEEKuokKXOfC2f5JPBWYaaONdziR2bymie61y5kUZpfshqj80V1u9JLAQIdbdMgTZRw&usqp=CAU" height="50" alt="CoolBrand" />
-                        <span className="ms-3">
+                        <img className='rounded-circle' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUxrP5mDr-X-FVguP-wwtKmTkl8EWYhyrfqw&usqp=CAU" height="100" width="100" alt="CoolBrand" />
+                        <span className="ms-3 ">
                             <strong>
                                 <em style={{ color: "blue" }}>Travel Agency</em>
                             </strong>
